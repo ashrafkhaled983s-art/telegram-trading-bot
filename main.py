@@ -7,7 +7,7 @@ api_id = 123456
 api_hash = "YOUR_API_HASH"
 
 # Telegram group username
-GROUP_NAME = "اسم_الجروب"
+GROUP_NAME = "بورصة بالعربي"
 
 # n8n webhook URL
 N8N_WEBHOOK_URL = "https://your-n8n-url/webhook/trading"
